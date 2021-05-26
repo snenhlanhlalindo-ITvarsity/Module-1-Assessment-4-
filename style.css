@@ -1,0 +1,19 @@
+th{
+    color:white;
+    font-family:sans-serif;
+    border-width:medium;
+    background-color:green;
+    font-weight:600;
+}
+table{
+    font-family:helvetica;
+    border-collapse: collapse;
+    
+    
+}
+td{
+    color:green;
+    font-family:fantasy;
+    background-color:aqua;
+    border-style:groove;
+}
